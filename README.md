@@ -1,2 +1,3 @@
 # aibook
 Writing a silly book to learn git !
+We're Going To Use This File During This Course...
